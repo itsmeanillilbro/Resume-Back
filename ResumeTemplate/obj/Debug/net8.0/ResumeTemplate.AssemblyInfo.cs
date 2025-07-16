@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumeTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3330113f4d135091e8040240920d96ccba95609b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumeTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumeTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

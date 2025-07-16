@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\resumecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\resumecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\data\\resumecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\data\\resumecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\models\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +13,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\resumecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\resumecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\experiencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\controllers\\educationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\resumetemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\resumetemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|solutionrelative:resumetemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF478F7D-F139-4617-88FE-AE0046373AF9}|ResumeTemplate\\ResumeTemplate.csproj|c:\\users\\fujitsu\\desktop\\angularjs\\resumetemplate\\resumetemplate\\migrations\\20250710105205_resumetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,44 +66,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Education.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Education.cs",
+              "RelativeToolTip": "ResumeTemplate\\Models\\Education.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:35:52.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Experience.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Experience.cs",
+              "RelativeToolTip": "ResumeTemplate\\Models\\Experience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:35:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EducationController.cs",
               "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\EducationController.cs",
               "RelativeDocumentMoniker": "ResumeTemplate\\Controllers\\EducationController.cs",
               "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\EducationController.cs",
               "RelativeToolTip": "ResumeTemplate\\Controllers\\EducationController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAswA4AAAAJAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwCYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T10:56:22.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ExperienceController.cs",
               "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\ExperienceController.cs",
               "RelativeDocumentMoniker": "ResumeTemplate\\Controllers\\ExperienceController.cs",
               "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\ExperienceController.cs",
               "RelativeToolTip": "ResumeTemplate\\Controllers\\ExperienceController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:55:45.189Z"
+              "WhenOpened": "2025-07-10T10:55:45.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "ResumeTemplate\\Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "ResumeTemplate\\Controllers\\SkillsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:04:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ResumeControler.cs",
               "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\ResumeControler.cs",
               "RelativeDocumentMoniker": "ResumeTemplate\\Controllers\\ResumeControler.cs",
               "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Controllers\\ResumeControler.cs",
               "RelativeToolTip": "ResumeTemplate\\Controllers\\ResumeControler.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEkAAAA7AAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwD8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:54:00.299Z"
+              "WhenOpened": "2025-07-10T10:54:00.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Program.cs",
+              "RelativeToolTip": "ResumeTemplate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:52:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Skill.cs",
+              "RelativeToolTip": "ResumeTemplate\\Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T10:37:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResumeTemplate",
+              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\ResumeTemplate.csproj",
+              "RelativeDocumentMoniker": "ResumeTemplate\\ResumeTemplate.csproj",
+              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\ResumeTemplate.csproj",
+              "RelativeToolTip": "ResumeTemplate\\ResumeTemplate.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T05:08:48.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\appsettings.json",
               "RelativeDocumentMoniker": "ResumeTemplate\\appsettings.json",
@@ -112,18 +192,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-10T10:52:56.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Program.cs",
-              "RelativeDocumentMoniker": "ResumeTemplate\\Program.cs",
-              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Program.cs",
-              "RelativeToolTip": "ResumeTemplate\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:52:52.424Z"
             },
             {
               "$type": "Document",
@@ -136,66 +204,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T10:52:05.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ResumeContext.cs",
-              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Data\\ResumeContext.cs",
-              "RelativeDocumentMoniker": "ResumeTemplate\\Data\\ResumeContext.cs",
-              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Data\\ResumeContext.cs",
-              "RelativeToolTip": "ResumeTemplate\\Data\\ResumeContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:40:32.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Skill.cs",
-              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Skill.cs",
-              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Skill.cs",
-              "RelativeToolTip": "ResumeTemplate\\Models\\Skill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:37:05.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Education.cs",
-              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Education.cs",
-              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Education.cs",
-              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Education.cs",
-              "RelativeToolTip": "ResumeTemplate\\Models\\Education.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:35:52.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Experience.cs",
-              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Experience.cs",
-              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Experience.cs",
-              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Experience.cs",
-              "RelativeToolTip": "ResumeTemplate\\Models\\Experience.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:35:15.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Resume.cs",
-              "DocumentMoniker": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Resume.cs",
-              "RelativeDocumentMoniker": "ResumeTemplate\\Models\\Resume.cs",
-              "ToolTip": "C:\\Users\\Fujitsu\\Desktop\\AngularJS\\ResumeTemplate\\ResumeTemplate\\Models\\Resume.cs",
-              "RelativeToolTip": "ResumeTemplate\\Models\\Resume.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:33:39.085Z"
             }
           ]
         }

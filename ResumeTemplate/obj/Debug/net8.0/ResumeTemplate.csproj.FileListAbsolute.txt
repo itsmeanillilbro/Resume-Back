@@ -166,3 +166,4 @@ C:\Users\Fujitsu\Desktop\AngularJS\ResumeTemplate\ResumeTemplate\obj\Debug\net8.
 C:\Users\Fujitsu\Desktop\AngularJS\ResumeTemplate\ResumeTemplate\obj\Debug\net8.0\ResumeTemplate.pdb
 C:\Users\Fujitsu\Desktop\AngularJS\ResumeTemplate\ResumeTemplate\obj\Debug\net8.0\ResumeTemplate.genruntimeconfig.cache
 C:\Users\Fujitsu\Desktop\AngularJS\ResumeTemplate\ResumeTemplate\obj\Debug\net8.0\ref\ResumeTemplate.dll
+C:\Users\Fujitsu\Desktop\AngularJS\ResumeTemplate\ResumeTemplate\obj\Debug\net8.0\ResumeTemplate.sourcelink.json
